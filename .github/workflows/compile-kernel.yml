@@ -87,6 +87,7 @@ on:
         options:
           - -ophub
           - -yourname
+          - -ssw
 
 env:
   TZ: America/New_York
