@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - codesnas
+          - rin0612
       kernel_version:
         description: "Select kernel version"
         required: false
